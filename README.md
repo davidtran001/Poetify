@@ -4,7 +4,7 @@ Poetify is a Machine Learning Model written in Python on Jupyter Notebook, using
 # Contributors
 This project was co-developed by David Tran (www.github.com/davidtran001), Stephen Wang (www.github.com/Stephenwang3801), William Sati (www.github.com/WilliamSati), and Percy Wang (www.github.com/junwjie).
 
-For more information about the project regarding models, data processing, and architecture please click the link below: https://github.com/Stephenwang3801/Poetify/blob/main/Poetify%20Desc.pdf
+For more information regarding the project regarding models, data processing, and architecture please click the link below: https://github.com/Stephenwang3801/Poetify/blob/main/Poetify%20Desc.pdf
 
 |Model Architecture|
 |------------------|
