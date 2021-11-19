@@ -13,3 +13,17 @@ For more information about the project regarding models, data processing, and ar
 |Example of what the model does:|
 |-------------------------------|
 |<img src="https://github.com/Stephenwang3801/Poetify/blob/main/Images/Problem%20Break%20down.png?raw=true">|
+
+|Context Transfer|
+|------------------|
+|<img src="https://user-images.githubusercontent.com/46908974/142655752-899f0bc8-c67a-4c6a-81f4-b93ce4d4d47e.png">|
+|*Highlighted text represents the text in the input that had their subject and sentiment transferred to the output poem. Blue represents how the music subject, text highlighted in red represents the calm and quiet sentiment.*|
+
+# Datasets
+Poetify was trained on various review and poem datasets sourced from [Kaggle](https://www.kaggle.com/)
+
+[Haiku Dataset](https://www.kaggle.com/hjhalani30/haiku-dataset)
+
+[Complete poetryfoundation.com dataset](https://www.kaggle.com/johnhallman/complete-poetryfoundationorg-dataset)
+
+[Amazon Reviews for Sentiment Analysis](https://www.kaggle.com/bittlingmayer/amazonreviews)
