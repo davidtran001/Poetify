@@ -11,7 +11,7 @@ For more information regarding the project regarding models, data processing, an
 
 |Model Architecture|
 |------------------|
-|<img src="https://github.com/Stephenwang3801/Poetify/blob/main/Images/Model%20Architecture.png?raw=true">|
+|<img src="https://github.com/davidtran001/DE1_Dungeon/blob/main/images/gameplay.png?raw=true">|
 
 |Example of what the model does:|
 |-------------------------------|
